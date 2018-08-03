@@ -4,6 +4,28 @@
   color: red;
 }
 .kichwa{
-  font-size: 14px;
-  color:green;
+  font-size: 35px;
+  color:#f7325e;
+  text-decoration-color: #7dc410;
+  font-family: fantasy;
+  text-align: center;
+}
+
+.important{
+  font-weight: 400;
+  font-size:30px;
+  
+}
+
+.unimportant{
+  font-style: italic;
+}
+
+.muhimu{
+  font-size: 16px;
+  color: crimson;
+}
+
+.kikombe{
+  background-color: aquamarine;
 }
